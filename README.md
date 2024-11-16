@@ -1,0 +1,1 @@
+The Quiz-App is a fun and interactive platform that allows users to test their knowledge in a limited range of topics. With a user-friendly interface, real-time scoring, and customizable quiz settings, the app offers an engaging learning experience for individuals. If you're just looking to challenge yourself, QuizApp makes learning fun and accessible anywhere, anytime.
